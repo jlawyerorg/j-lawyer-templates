@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><emailtemplate format="text/plain"><subject><![CDATA[{{AKTE_ZEICHEN}} {{AKTE_KURZRUBRUM}} ]]></subject><body><![CDATA[{{MANDANT_ANREDE}}, 
+
+[hier Text einfügen]
+
+Für Rückfragen stehe ich unter {{PROFIL_TEL}} zur Verfügung.
+
+{{MANDANT_NACHTEXT}} ]]></body></emailtemplate>
